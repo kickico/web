@@ -344,7 +344,7 @@ und endet die ICO Kampagne?<br>
 id="collapse2-3" role="tabpanel">
 <div class="panel-body">
 <p>Die ICO-Kampagne startet am 29. August, Moskauer Zeit (GMT +3) und
-endet am 29. September um 23:59 Uhr (GMT +3).<br>
+endet am 16. September um 23:59 Uhr (GMT +3).<br>
 </p>
 </div>
 </div>
@@ -669,8 +669,8 @@ das Ziel der ICO Kampagne? </a></h4>
 <div aria-labelledby="heading2-18" class="panel-collapse collapse"
 id="collapse2-18" role="tabpanel">
 <div class="panel-body">
-<p>Das Ziel der ICO Kampagne liegt bei 70 000 ETH, das maximale Limit
-(hard cap) sind 200 000 ETH.<br>
+<p>Das Ziel der ICO Kampagne liegt bei 50 000 ETH, das maximale Limit
+(hard cap) sind 100 000 ETH.<br>
 </p>
 </div>
 </div>
@@ -747,26 +747,7 @@ informiert.</p>
 </div>
 </div>
 </div>
-<div class="panel panel-default">
-<div class="panel-heading" id="heading2-21" role="tab">
-<h4 class="panel-title"><a aria-controls="collapse2-21"
-aria-expanded="false" class="collapsed" data-parent="#accordion"
-data-toggle="collapse" href="#collapse2-21" role="button"> Was
-bedeutet "Hidden Cap" und wie funktioniert es? </a></h4>
-</div>
-<div aria-labelledby="heading2-21" class="panel-collapse collapse"
-id="collapse2-21" role="tabpanel">
-<div class="panel-body">
-<p>Hidden Cap ist das Limit, welches die Autoren der ICO Kampagnen
-setzen, welches allerdings nicht in einem smart contract registriert
-und deshalb den Teilnehmern unbekannt ist. Der Zweck des Hidden Cap
-besteht darin, den ICO Kampagnen eine kleine Intrige zuzuführen, sowie
-ein spielerisches Element, welches diese noch interessanter und
-aufregender gestaltet und zudem das Fundraising der ICO Kampagnen in
-signifikanter Art und Weise erhöhen kann.</p>
-</div>
-</div>
-</div>
+
 <div class="panel panel-default">
 <div class="panel-heading" id="heading2-22" role="tab">
 <h4 class="panel-title"><a aria-controls="collapse2-22"
@@ -795,10 +776,6 @@ werden wird.</p>
 </div>
 <br>
 <br>
-
-
-
-
 
 <div class="faqcont">
 <div class="container">
